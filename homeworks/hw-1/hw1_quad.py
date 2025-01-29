@@ -1,9 +1,9 @@
-##################################################
-#          Name:- Aaditya Sakhardande            #
-#          ASU ID:- 1233720594                   #
-#          Email:- asakhar3@asu.edu              #
-#          Date:- 01/29/2025                     #
-##################################################
+################################################
+#        Name:- Aaditya Sakhardande            #
+#        ASU ID:- 1233720594                   #
+#        Email:- aadityasakhardande@gmail.com  #
+#        Date:- 01/29/2025                     #
+################################################
 
 import cmath as cm 
 import numpy as np  

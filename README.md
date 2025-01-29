@@ -8,6 +8,6 @@ The homeworks, projects and screenshots shared here have already been submitted 
 
 1. **Homeworks**
 
-   1.1 [Homework 1](./Homeworks/Hw-1/) - Prime Numbers Generation, Quadratic Equation Solver & Implementation of Square Root.
+   1.1 [Homework 1](./Homeworks/Hw-1) - Prime Numbers Generation, Quadratic Equation Solver & Implementation of Square Root.
 
-   1.2 [Homework 2](./Homeworks/Hw-2/) - Problems involving computing Integral
+   1.2 [Homework 2](./Homeworks/Hw-2) - Problems involving computing Integral
